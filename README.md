@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--`Ops` && `Golang开发` && `漏洞挖掘`
+
+- `Ops` && `Golang开发` && `漏洞挖掘`
 - QQ：`Nzg3NzE5NDM4`
 - Blog： https://sweeteriri.com/
 
