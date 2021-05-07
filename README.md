@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=SweetEriri&theme=dark)
+ops && golang开发 
+QQ：Nzg3NzE5NDM4
+Blog： https:/sweeteriri.com//
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetEriri&hide=javascript,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
