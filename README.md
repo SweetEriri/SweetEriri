@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- `Ops` && `Golang开发` && `漏洞挖掘`
+- `DevOps` && `Golang开发` && `漏洞挖掘`
 - QQ：`Nzg3NzE5NDM4`
-- Blog： https://sweeteriri.com/
 
 
 ![](https://github-readme-stats.vercel.app/api?username=SweetEriri&theme=dark)
