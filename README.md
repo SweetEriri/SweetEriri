@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - QQ：`Nzg3NzE5NDM4`
 
 
-[![SweetEriri's github stats](https://github-readme-stats.vercel.app/api?username=SweetEriri "![SweetEriri's github stats")](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetEriri&hide=javascript,html&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![SweetEriri's github stats](https://github-readme-stats.vercel.app/api?username=SweetEriri& "![SweetEriri's github stats")](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetEriri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
